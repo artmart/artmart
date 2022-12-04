@@ -7,4 +7,4 @@ Google charts, REST/JSON APIs,...) development, SQL, Researches, analyses, repor
 
 https://www.linkedin.com/in/artak-martirosyan-5771163b
 
-https://www.upwork.com/freelancers/~01b0f084f2005df181?viewMode=1
+https://www.upwork.com/freelancers/artakmartirosyan2?viewMode=1 
