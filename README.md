@@ -10,3 +10,19 @@ My Linkedin and UpWork profiles are:
 https://www.linkedin.com/in/artak-martirosyan-5771163b
 
 https://www.upwork.com/freelancers/artakmartirosyan2?viewMode=1 
+
+Some public, web-based reports, calculators or dashboards I created for my previous clients you can check here:
+
+http://fxnewsspike.com/
+https://finstatlab.com/calculators
+https://api.donorcalcs.com/
+http://knowledgeonlineplatform.com
+http://pension.ihostfull.com
+http://test.donorcalcs.com/securermd/calc1
+https://www.bankeronwheels.com/bond-etf-calculator/
+https://meta-calculator.com/
+https://www.bankeronwheels.com/compound-interest-calculator/
+http://www.tempusfugit.aero/Finance/
+https://ketochef.co.il/keto-recipe-calculator/
+http://shadowbenchmark.com/
+...
